@@ -7,5 +7,5 @@
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=variableni&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-##CodeWars
+## CodeWars
 [![codewars](https://www.codewars.com/users/VariableNi/badges/large)](https://www.codewars.com/users/VariableNi)   
